@@ -6,8 +6,9 @@
   "scripts": {
     "lite": "lite-server",
     "start": "npm run lite",
+    "scss": "node-sass -o css/ css/",
     "test": "echo \"Error: no test specified\" && exit 1"
- },
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bryanjacinto1994/Portfolio-Update.git"
@@ -25,6 +26,7 @@
     "popper.js": "^1.16.1"
   },
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.5.4",
+    "node-sass": "^4.14.1"
   }
 }
