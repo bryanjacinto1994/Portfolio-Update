@@ -1,0 +1,21 @@
+{
+  "name": "portfolio-update",
+  "version": "1.0.0",
+  "description": "This is a website for the fictional campsites review site NuCamp.",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanjacinto1994/Portfolio-Update.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanjacinto1994/Portfolio-Update/issues"
+  },
+  "homepage": "https://github.com/bryanjacinto1994/Portfolio-Update#readme"
+}
